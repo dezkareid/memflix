@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+  color: #ffffff;
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
+
+li {
+  padding-left: 10px;
+  padding-right: 10px
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  font-size: 20px;
+  color: pink;
+}
+
+header {
+  display: flex;
+  position: fixed;
+  padding: 15px 10px;
+  width: 100%;
+  z-index: 1;
+}
+#video-trailer {
+  position: relative;
+}
+
+#video-trailer-info {
+  position: absolute;
+  top: 30px;
+  bottom: 30px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+#video-trailer video {
+  width: 100%;
+}
