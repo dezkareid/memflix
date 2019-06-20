@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "joel@centraal.com",
+      "id": 1
+    },
+    {
+      "name": "Joel Humberto Gomez Paredes",
+      "username": "joel@centraal.com",
+      "password": "1232222",
+      "id": 2
+    }
+  ]
+}
