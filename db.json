@@ -10,5 +10,31 @@
       "password": "1232222",
       "id": 2
     }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Avengers EndGame",
+      "image": "https://ichef.bbci.co.uk/news/912/cpsprodpb/E98E/production/_106809795_p073jk0n.jpg",
+      "description": "Aaaaah te mamaste"
+    },
+    {
+      "id": 2,
+      "title": "Avengers EndGame",
+      "image": "https://ichef.bbci.co.uk/news/912/cpsprodpb/E98E/production/_106809795_p073jk0n.jpg",
+      "description": "Aaaaah te mamaste"
+    },
+    {
+      "id": 3,
+      "title": "Avengers EndGame",
+      "image": "https://ichef.bbci.co.uk/news/912/cpsprodpb/E98E/production/_106809795_p073jk0n.jpg",
+      "description": "Aaaaah te mamaste"
+    },
+    {
+      "id": 4,
+      "title": "Avengers EndGame",
+      "image": "https://ichef.bbci.co.uk/news/912/cpsprodpb/E98E/production/_106809795_p073jk0n.jpg",
+      "description": "Aaaaah te mamaste"
+    }
   ]
 }

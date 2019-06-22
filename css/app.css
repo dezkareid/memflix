@@ -27,7 +27,7 @@ a:hover {
   color: pink;
 }
 
-header {
+.header-nav {
   display: flex;
   position: fixed;
   padding: 15px 10px;
@@ -48,4 +48,28 @@ header {
 }
 #video-trailer video {
   width: 100%;
+}
+
+.video-item {
+  width: 200px;
+  cursor: pointer;
+  position: relative;
+}
+
+.video-item-image {
+  max-width: 100%;
+}
+
+.video-item:hover {
+  width: 250px;
+}
+
+.video-item-header {
+  position: absolute;
+  visibility: hidden;
+  bottom: 10px;
+}
+
+.visible {
+  visibility: visible;
 }
