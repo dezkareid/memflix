@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/dezkareid/memflix#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "json-server": "^0.15.0"
   }
 }
